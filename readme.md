@@ -53,7 +53,7 @@ Floor tiles?!
 * You can even set them up to harm enemies!
 * You can't destabilize them though, because what would they even turn into?
 
-## Roadmap
+## Near Roadmap
 
 * Make, display a player. (just the @ and the object, overview style)
   * Then give the player a name.
@@ -78,3 +78,17 @@ Floor tiles?!
 * Let the player _inside the monster. (its _inside is another arena with no monsters).
 * Make the overworld be a dungeon.
 * Make the monster's _inside be a dungeon.
+
+## Far Roadmap
+
+* Basic dungeon structure
+  * _inside as a core feature
+* Soulstones
+  * Magic powder
+  * Enhance or hinder enemies by putting a soulstone in their _inside
+* Equipment
+  * Enhance with _inside
+* Items
+  * Enhance with _inside
+* Cooking
+  * HP, MP Restoration
