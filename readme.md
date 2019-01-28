@@ -53,14 +53,18 @@ Floor tiles?!
 * You can even set them up to harm enemies!
 * You can't destabilize them though, because what would they even turn into?
 
-## Near Roadmap
+## Stuff that's done
 
 * Make, display a player. (just the @ and the object, overview style)
-  * Then give the player a name.
+
+
+## Near Roadmap
+
+* Give the player a name.
 * Describe the player.
   * Make the player generate a random letter name.
   * Make the player generate a random hex name.
-* Make the map. (totally empty, outside box is nothingness)
+* Make the map. (totally empty, outside box is impassable void)
   * Describe the map.
   * Put the player in the map.
   * Make wall tiles. Add them to the map. (player may walk into wall tiles...)

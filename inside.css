@@ -1,3 +1,4 @@
-.flex-container {
+#inparent {
     display: flex;
+    flex-wrap: wrap;
 };
