@@ -96,3 +96,12 @@ Floor tiles?!
   * Enhance with _inside
 * Cooking
   * HP, MP Restoration
+
+### Addendum: Affixes
+
+4 types of affixes:
+
+1. Title affixes ("The magnificent")
+2. Prefixes ("Shaman's")
+3. Suffxes ("of the Hunt")
+4. Infixes ("of the ["purifying"] Hunt")
